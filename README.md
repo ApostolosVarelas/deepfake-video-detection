@@ -140,7 +140,7 @@ A CUDA GPU is strongly recommended. Training all six models on the
 full dataset takes several hours.
 
 ```bash
-git clone https://github.com/<your-username>/deepfake-video-detection.git
+git clone https://github.com/ApostolosVarelas/deepfake-video-detection.git
 cd deepfake-video-detection
 python -m venv .venv
 # Windows: .venv\Scripts\activate   |   macOS/Linux: source .venv/bin/activate
